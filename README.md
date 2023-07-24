@@ -1,9 +1,8 @@
 # Hej, I am Ellie! ✨
 
-## Aspriring frontend dev
+## Aspiring frontend dev
 
 > "All our dreams can come true, if we have the courage to pursue them."
-
 
 - 👋 Hi, I’m @e-rmkt
 - 👀 I’m interested in coding, self-improvement, life-long learning
