@@ -4,11 +4,10 @@
 
 > "All our dreams can come true, if we have the courage to pursue them."
 
-- 👋 Hi, I’m @e-rmkt
-- 👀 I’m interested in coding, self-improvement, life-long learning
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on beginner projects
-- 📫 How to reach me -> on here!
+- 👋 Hi, I’m @e-rmkt. I am currently doing a three-month long Web Development bootcamp at neue fische. In this bootcamp, I will be doing 540 hours of practice-oriented lessons about coding as well as training soft skills like stress reduction and (project-)management practices like scrum, kanban and presentations.
+
+The last 4 weeks are dedicated to creating one final project to showcase all the skills I have learned the past weeks.
+All my work will be displayed here! :D 
 
 
 ![Alt Text](https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif)
