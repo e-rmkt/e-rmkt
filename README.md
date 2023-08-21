@@ -2,7 +2,6 @@
 
 > "All our dreams can come true, if we have the courage to pursue them."
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=e-rmkt&icon=0&color=0" alt="e-rmkt" /> </p>
 
 
 
