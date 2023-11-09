@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/e-rmkt/e-rmkt/blob/main/MacBook%20Air%20-%201.svg)
+![Alt Text](https://github.com/e-rmkt/e-rmkt/blob/main/About-me.svg)
 
 > "All our dreams can come true, if we have the courage to pursue them."
 
