@@ -13,6 +13,9 @@ Currently working on:
 Next in the pipeline:
 - [Total Typescript](https://www.totaltypescript.com/)
 - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+
+Finished/completed ✅🎉:
+- [neuefische 3 month-long Web Development botcamp](https://www.neuefische.de/bootcamp/web-development)
 <!---
 e-rmkt/e-rmkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
